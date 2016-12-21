@@ -11,6 +11,7 @@ Features
 # Notes :: TODO
 - This will always output a .avi file at the moment for its container, more work will be done later.
 - No built in audio is supported at the moment 
+- This does NOT record the mouse location however will be added as optional extra.
 - Exceptions will happen — This is certainly a work in progress.
 - As of 21-12-2016 the output directory needs to exist. 
 - There are bugs at the moment, lots of them.
